@@ -287,11 +287,5 @@ Based on the findings, the project recommends:
 *SDG Area:* SDG 15 – Life on Land
 *Analysis Type:* Descriptive and comparative data analysis
 
----
-
-## Data Source
-
-The workbook contains the forest-share dataset used for the analysis; however, the original external data-source citation is not specified within the workbook. The original source should be added here before formal publication or submission if available.
-
 Ready to connect with great minds passionate about creating a greener future. Let’s share ideas, collaborate, and join the fight against deforestation. Together, our contributions can make a difference kobbykay2000@gmai.com(mailto:kobbykay2000@gmail.com) 
 
