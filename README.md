@@ -1,4 +1,4 @@
-# Global-Forest-Dynamics-A-20-Year-Comparative-Analysis-2000-2020-
+# Global-Forest-Dynamics-A-20-Year-Comparative-Analysis-2000-2020
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ea9ea0b0-a70c-407f-ac25-f6808e5920f2" />
 
